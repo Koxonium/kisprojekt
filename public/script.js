@@ -1,4 +1,4 @@
-document.body.style.backgroundColor = "#353535"
+
 
 function login(){
     const loginreq = new XMLHttpRequest()
